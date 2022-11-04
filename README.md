@@ -1,4 +1,4 @@
-# 3D-face-reconstruction
+# 3D-Face-Reconstruction
 Something about 3D face reconstruction
 
 ## Base on 3DMM

@@ -16,6 +16,7 @@ Something about 3D face reconstruction
 |CVPR(2022)|EMOCA: Emotion Driven Monocular Face Capture and Animation|[PDF](https://ps.is.mpg.de/uploads_file/attachment/attachment/686/EMOCA__CVPR22.pdf)/[code](https://github.com/radekd91/emoca)|
 
 
+
 ## Base on NeRF
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
@@ -25,5 +26,6 @@ Something about 3D face reconstruction
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |ECCV(2022)|3D Face Reconstruction with Dense Landmarks|[PDF](https://arxiv.org/abs/2204.02776)/[web](https://microsoft.github.io/DenseLandmarks/)|
-
+|CVPR(2022)|ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations|[PDF](https://arxiv.org/pdf/2203.14510)/[code](https://github.com/MingwuZheng/ImFace)|
+|CVPR(2022)|Sparse to Dense Dynamic 3D Facial Expression Generation|[PDF](https://arxiv.org/pdf/2105.07463v2.pdf)/[code](https://github.com/CRISTAL-3DSAM/Sparse2Dense/issues)|
 

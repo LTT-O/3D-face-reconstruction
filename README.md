@@ -29,3 +29,10 @@ Something about 3D face reconstruction
 |CVPR(2022)|ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations|[PDF](https://arxiv.org/pdf/2203.14510)/[code](https://github.com/MingwuZheng/ImFace)|
 |CVPR(2022)|Sparse to Dense Dynamic 3D Facial Expression Generation|[PDF](https://arxiv.org/pdf/2105.07463v2.pdf)/[code](https://github.com/CRISTAL-3DSAM/Sparse2Dense/issues)|
 
+## 3D Facial Animation
+| Pub |  Title  |Links|
+|:--------:| :-------------|:-------------:|
+|ACM MM(2017)|Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion|[PDF](https://research.nvidia.com/sites/default/files/publications/karras2017siggraph-paper_0.pdf)/|
+|CVPR(2022)|FaceFormer: Speech-Driven 3D Facial Animation with Transformers|[PDF](https://arxiv.org/pdf/2112.05329.pdf)/[code](https://github.com/EvelynFan/FaceFormer)|
+|CVPR(2019)|Capture, Learning, and Synthesis of 3D Speaking Styles|[PDF](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf)/[code](https://github.com/TimoBolkart/voca)|
+

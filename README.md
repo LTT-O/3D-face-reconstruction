@@ -1,13 +1,13 @@
 # 3D-Face-Reconstruction/Animation
 Something about 3D face reconstruction/animation
 
-## Base on 3DMM
+## Base on 3DMM(Linear combination)
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |CVPRW(2019) | Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set|[PDF](https://arxiv.org/abs/1903.08527)/[code](https://github.com/Microsoft/Deep3DFaceReconstruction) |
 
 
-## Base on FLAME
+## Base on FLAME(Linear combination)
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |SIGGRAPH(2021)|DECA: Detailed Expression Capture and Animation|[PDF](https://arxiv.org/abs/2012.04012)/[code](https://github.com/YadiraF/DECA)|
@@ -22,7 +22,7 @@ Something about 3D face reconstruction/animation
 |:--------:| :-------------|:-------------:|
 |CVPR(2022)|3D-aware Image Synthesis via Learning Structural and Textural Representations|[PDF](https://arxiv.org/pdf/2112.10759.pdf)/[code](https://github.com/genforce/volumegan)|
 
-## Base on others
+## Base on others(Nonlinear combination)
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |ECCV(2022)|3D Face Reconstruction with Dense Landmarks|[PDF](https://arxiv.org/abs/2204.02776)/[web](https://microsoft.github.io/DenseLandmarks/)|

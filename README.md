@@ -1,5 +1,5 @@
-# 3D-Face-Reconstruction
-Something about 3D face reconstruction
+# 3D-Face-Reconstruction/Animation
+Something about 3D face reconstruction/animation
 
 ## Base on 3DMM
 | Pub |  Title  |Links|
@@ -35,4 +35,6 @@ Something about 3D face reconstruction
 |ACM MM(2017)|Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion|[PDF](https://research.nvidia.com/sites/default/files/publications/karras2017siggraph-paper_0.pdf)/|
 |CVPR(2022)|FaceFormer: Speech-Driven 3D Facial Animation with Transformers|[PDF](https://arxiv.org/pdf/2112.05329.pdf)/[code](https://github.com/EvelynFan/FaceFormer)|
 |CVPR(2019)|Capture, Learning, and Synthesis of 3D Speaking Styles|[PDF](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf)/[code](https://github.com/TimoBolkart/voca)|
+|arXiv(2023)|CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|[PDF](https://arxiv.org/abs/2301.02379)/[code](https://github.com/google/nerfies)|
+|arXiv(2022)|Generating Holistic 3D Human Motion from Speech|[PDF](https://arxiv.org/pdf/2212.04420.pdf)/[Project](https://talkshow.is.tue.mpg.de)|
 

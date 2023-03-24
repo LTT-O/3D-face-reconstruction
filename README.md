@@ -5,6 +5,7 @@ Something about 3D face reconstruction/animation
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |CVPRW(2019) | Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set|[PDF](https://arxiv.org/abs/1903.08527)/[code](https://github.com/Microsoft/Deep3DFaceReconstruction) |
+|arXiv(2023)|HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details|[PDF](https://arxiv.org/pdf/2303.11225.pdf)|
 
 
 ## Base on FLAME(Linear combination)

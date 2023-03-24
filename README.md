@@ -39,4 +39,5 @@ Something about 3D face reconstruction/animation
 |arXiv(2023)|CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|[PDF](https://arxiv.org/abs/2301.02379)/[code](https://github.com/google/nerfies)|
 |arXiv(2022)|Generating Holistic 3D Human Motion from Speech|[PDF](https://arxiv.org/pdf/2212.04420.pdf)/[Project](https://talkshow.is.tue.mpg.de)|
 |arXiv(2023)|EmoTalk: Speech-driven emotional disentanglement for 3D face animation|[PDF](https://arxiv.org/pdf/2303.11089.pdf)|
+|arXiv(2023)|MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation|[PDF](https://arxiv.org/pdf/2303.09797v1.pdf)|
 
